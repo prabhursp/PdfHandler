@@ -13,5 +13,5 @@ I would like to share my experience of reducing pdf file size. I have tested pdf
 *****************
 - Refer the sample code to use
 
-- You can find more option and complete details of iTextSharp from below links
+- You can find more option and complete details of iTextSharp from below link
 
